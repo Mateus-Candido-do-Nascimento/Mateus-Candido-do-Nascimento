@@ -155,20 +155,6 @@ LifeNavigatorAI/
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mateus-c%C3%A2ndido-05b412265/">
-<img src="https://img.shields.io/badge/LinkedIn-Mateus%20C%C3%A2ndido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:matturushihara@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-matturushihara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 ⭐ From [Mateus-Candido-do-Nascimento](https://github.com/Mateus-Candido-do-Nascimento)
