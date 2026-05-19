@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,react,tailwind,git,github,linux,pandas,swift" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,react,git,github,linux,pandas,javascript,swift,next.js" />
 
 
 # 📚 Currently Studying
